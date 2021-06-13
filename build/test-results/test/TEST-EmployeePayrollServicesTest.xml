@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EmployeePayrollServicesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-13T22:45:03" hostname="PRAVEEN-TQ9EU8H" time="0.059">
+  <properties/>
+  <testcase name="given3EmployeeWhenWrittenToFile_ShouldMatchEmployeesEntry" classname="EmployeePayrollServicesTest" time="0.059"/>
+  <system-out><![CDATA[{id=1, name='Daniel', salary=2000000.0}
+{id=2, name='Bella', salary=120000.0}
+{id=3, name='Rose', salary=90000.0}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
